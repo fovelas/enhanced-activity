@@ -1,9 +1,10 @@
-package com.fovelas.enhancedactivity;
+package com.fovelas.app;
 
 import android.os.Bundle;
 import android.util.Log;
 
-import com.fovelas.enhancedactivity.databinding.ActivityMainBinding;
+import com.fovelas.app.databinding.ActivityMainBinding;
+import com.fovelas.enhancedactivity.EnhancedActivity;
 
 public final class MainActivity extends EnhancedActivity<ActivityMainBinding>
 {
